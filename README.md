@@ -2,8 +2,6 @@
 
 Turn your memories into magic with our cutting-edge personal memory card! 📸🎉
 
-[![My Digital Memento](https://img.shields.io/badge/My%20Digital%20Memento-Your%20Digital%20Memory%20Card-blue.svg)](https://github.com/SwamiTheDev/MyDigitalMemento)
-
 Are you tired of losing precious moments and important notes? Look no further! My Digital Memento is here to help you store your cherished data and key points with style and pizzazz. 🧐💼
 
 🌟 **Project Highlights** 🌟
